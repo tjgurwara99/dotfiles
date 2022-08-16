@@ -1,0 +1,21 @@
+[user]
+    name = Taj Singh
+    email = tjgurwara99@gmail.com
+[color]
+    ui = auto
+[difftools]
+    prompt = false
+[push]
+	default = current
+[pager]
+	branch = false
+[include]
+    path = .gitconfig_os
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
+[fetch]
+	prune = true
+[github]
+	user = tjgurwara99
